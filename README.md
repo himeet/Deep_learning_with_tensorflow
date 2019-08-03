@@ -1,2 +1,0 @@
-# Deep_learning_with_tensorflow
-《Tensorflow实战Google深度学习框架》第2版 学习过程中编写的源代码
